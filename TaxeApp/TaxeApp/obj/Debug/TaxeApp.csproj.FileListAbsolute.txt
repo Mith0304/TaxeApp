@@ -1,0 +1,14 @@
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\bin\Debug\TaxeApp.exe.config
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\TaxeApp.csprojResolveAssemblyReference.cache
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\MainWindow.g.cs
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\App.g.cs
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\TaxeApp_MarkupCompile.cache
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\TaxeApp_MarkupCompile.lref
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\bin\Debug\TaxeApp.exe
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\bin\Debug\TaxeApp.pdb
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\MainWindow.baml
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\TaxeApp.g.resources
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\TaxeApp.Properties.Resources.resources
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\TaxeApp.csproj.GenerateResource.Cache
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\TaxeApp.exe
+c:\users\clement.santy\documents\visual studio 2015\Projects\TaxeApp\TaxeApp\obj\Debug\TaxeApp.pdb
